@@ -1,3 +1,5 @@
+; All changes in the section below has to be syncronized with MariaDB
+; @see https://github.com/drupal-docker/mariadb
 [mysqld]
 key_buffer_size         = 32M
 max_allowed_packet      = 16M

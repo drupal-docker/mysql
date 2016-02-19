@@ -1,4 +1,4 @@
 FROM mysql:5.5
-MAINTAINER zaporylie
+MAINTAINER drupal-docker
 
 ADD drupal.cnf /etc/mysql/conf.d/
